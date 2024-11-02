@@ -5,7 +5,7 @@ class SiteAssistant extends HTMLElement {
         super();
         this.site = "https://www.nike.com";
         this.recognition = null;
-        this.apiKey = "sk-proj-X58wigsslfWqA9wfNGU3T3BlbkFJad6QDaBQxVNsE2Qalej0";
+        this.apiKey = "";
         this.pageMappings = {
             "men's shoes": "/w/mens-shoes-nik1zy7ok",
             "women's sweatshirts and hoodies": "/w/womens-hoodies-pullovers-5e1x6z6rive"
